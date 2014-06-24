@@ -1,0 +1,1 @@
+SELECT 0.1 AS "col0",1+1 AS "col1", 1.0+1.1 AS "col2", 'col3' "TEST" FROM DUAL
